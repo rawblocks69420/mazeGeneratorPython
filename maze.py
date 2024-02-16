@@ -18,10 +18,7 @@ screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("Grid in Pygame")
 
 # Define the colors
-BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
-RED = (255,0,0)
-grey = (200,200,200)
 
 
 #this object will determine where to put ones on the grid.
